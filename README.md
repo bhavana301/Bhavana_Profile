@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhavana%20Peruri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20ML%20%2F%20AI&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhavana%20Peruri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Science%20%7C%20ML%20%2F%20AI&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Machine+Learning+%26+AI+Builder+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;NYU+Master's+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Machine+Learning+%26+AI+Builder+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;NYU+Master's+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 - 🎓 Master's student at **New York University** (Aug 2025 – May 2027)
 - 🏛️ B.Tech from **IIT Guwahati** (Jul 2021 – May 2025)
-- 💼 Seeking roles in **Software Engineering · Full Stack · ML/AI**
+- 💼 Seeking roles in **Software Engineering · Data Science · ML/AI**
 - 🌱 Currently deepening expertise in **LLMs, System Design, and Cloud**
 - 📫 Reach me at **bhavanaperuri301@gmail.com**
 - 🌐 Portfolio: [bhavanaperuri-portfolio.netlify.app](https://bhavanaperuri-portfolio.netlify.app)
@@ -69,7 +69,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🌐 [**ChatSky**](https://github.com/bhavana301/ChatSky) | Real-time full-stack chat app with JWT auth & WebSockets | React, Node.js, MongoDB, Socket.io |
+| 🌐 [**ChatSky**](https://github.com/bhavana301/ChatSky) | Scalable real-time messaging app with JWT auth, RESTful APIs & WebSockets | React, Node.js, MongoDB, Socket.io, Docker |
 | 📊 [**MacroDash**](https://github.com/bhavana301/MacroDash) | Financial analytics dashboard with AI chatbot (buy/sell/hold) | MERN Stack, REST APIs, CI/CD |
 | 👁️ [**GazeGuide**](https://github.com/bhavana301/GazeGuide) | Computer vision gaze tracking application | Python, OpenCV, ML |
 
